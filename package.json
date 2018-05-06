@@ -1,6 +1,11 @@
 {
   "name": "react-semantic-ui-boilerplate",
-  "version": "0.1.0",
+  "description": "reactjs boilerplate",
+  "license": "MIT",
+  "repository":"tamhv/react-semantic-ui-boilerplate",
+  "homepage":"https://github.com/tamhv/react-semantic-ui-boilerplate",
+  "author": "Tam Huynh <cs.amateur@gmail.com>",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "apisauce": "^0.14.3",

@@ -1,3 +1,16 @@
+
+# react-semantic-ui-boilerplate
+
+### Includes
+
+- redux
+- react-router
+- react-router-redux@v5.0.0-alpha.9
+- redux-saga
+- reduxsauce
+- seamless-immutable
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
